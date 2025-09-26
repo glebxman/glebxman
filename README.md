@@ -23,8 +23,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=glebromanovich&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glebromanovich&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=glebxman&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glebxman&layout=compact&theme=tokyonight)
 
 ---
 
